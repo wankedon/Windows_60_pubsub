@@ -1,0 +1,103 @@
+[2022-10-03 15:48:42.694] [FileLogger] [info] --InitLib
+[2022-10-03 15:48:42.712] [FileLogger] [info] RegisterSubscriber 52801
+[2022-10-03 15:48:42.712] [FileLogger] [info] CurrentSubcriberSize 1
+[2022-10-03 15:49:15.685] [FileLogger] [info] Subcribe PScanResult
+[2022-10-03 15:49:16.195] [FileLogger] [info] Subcribe PScanResult
+[2022-10-03 15:49:16.711] [FileLogger] [info] Subcribe PScanResult
+[2022-10-03 15:49:17.221] [FileLogger] [info] Subcribe PScanResult
+[2022-10-03 15:49:17.724] [FileLogger] [info] Subcribe PScanResult
+[2022-10-03 15:49:18.240] [FileLogger] [info] Subcribe PScanResult
+[2022-10-03 15:49:18.752] [FileLogger] [info] Subcribe PScanResult
+[2022-10-03 15:49:19.264] [FileLogger] [info] Subcribe PScanResult
+[2022-10-03 15:49:19.772] [FileLogger] [info] Subcribe PScanResult
+[2022-10-03 15:49:20.285] [FileLogger] [info] Subcribe PScanResult
+[2022-10-03 15:49:20.793] [FileLogger] [info] Subcribe PScanResult
+[2022-10-03 15:49:21.306] [FileLogger] [info] Subcribe PScanResult
+[2022-10-03 15:49:21.816] [FileLogger] [info] Subcribe PScanResult
+[2022-10-03 15:49:22.324] [FileLogger] [info] Subcribe PScanResult
+[2022-10-03 15:49:22.838] [FileLogger] [info] Subcribe PScanResult
+[2022-10-03 15:49:23.348] [FileLogger] [info] Subcribe PScanResult
+[2022-10-03 15:49:23.859] [FileLogger] [info] Subcribe PScanResult
+[2022-10-03 15:49:24.367] [FileLogger] [info] Subcribe PScanResult
+[2022-10-03 15:49:24.876] [FileLogger] [info] Subcribe PScanResult
+[2022-10-03 15:49:25.384] [FileLogger] [info] Subcribe PScanResult
+[2022-10-03 15:49:25.453] [FileLogger] [info] UnregisterSubscriber 52801
+[2022-10-03 15:49:25.453] [FileLogger] [info] CurrentSubcriberSize 0
+[2022-10-03 15:49:25.454] [FileLogger] [info] --DeInitLib
+[2022-10-03 15:54:25.960] [FileLogger] [info] --InitLib
+[2022-10-03 15:54:25.998] [FileLogger] [info] configuration load successed
+[2022-10-03 15:54:26.017] [FileLogger] [info] RegisterSubscriber 52801
+[2022-10-03 15:54:26.018] [FileLogger] [info] CurrentSubcriberSize 1
+[2022-10-03 15:54:37.434] [FileLogger] [info] Subcribe PScanResult
+[2022-10-03 15:54:37.942] [FileLogger] [info] Subcribe PScanResult
+[2022-10-03 15:54:38.458] [FileLogger] [info] Subcribe PScanResult
+[2022-10-03 15:54:38.972] [FileLogger] [info] Subcribe PScanResult
+[2022-10-03 15:54:39.487] [FileLogger] [info] Subcribe PScanResult
+[2022-10-03 15:54:39.994] [FileLogger] [info] Subcribe PScanResult
+[2022-10-03 15:54:40.504] [FileLogger] [info] Subcribe PScanResult
+[2022-10-03 15:54:41.023] [FileLogger] [info] Subcribe PScanResult
+[2022-10-03 15:54:41.530] [FileLogger] [info] Subcribe PScanResult
+[2022-10-03 15:54:42.041] [FileLogger] [info] Subcribe PScanResult
+[2022-10-03 15:54:42.556] [FileLogger] [info] Subcribe PScanResult
+[2022-10-03 15:54:43.068] [FileLogger] [info] Subcribe PScanResult
+[2022-10-03 15:54:43.577] [FileLogger] [info] Subcribe PScanResult
+[2022-10-03 15:54:44.091] [FileLogger] [info] Subcribe PScanResult
+[2022-10-03 15:54:44.609] [FileLogger] [info] Subcribe PScanResult
+[2022-10-03 15:54:45.122] [FileLogger] [info] Subcribe PScanResult
+[2022-10-03 15:54:45.628] [FileLogger] [info] Subcribe PScanResult
+[2022-10-03 15:54:46.139] [FileLogger] [info] Subcribe PScanResult
+[2022-10-03 15:54:46.648] [FileLogger] [info] Subcribe PScanResult
+[2022-10-03 15:54:47.163] [FileLogger] [info] Subcribe PScanResult
+[2022-10-03 15:54:47.677] [FileLogger] [info] Subcribe PScanResult
+[2022-10-03 15:54:48.189] [FileLogger] [info] Subcribe PScanResult
+[2022-10-03 15:54:48.703] [FileLogger] [info] Subcribe PScanResult
+[2022-10-03 15:54:49.216] [FileLogger] [info] Subcribe PScanResult
+[2022-10-03 15:54:49.729] [FileLogger] [info] Subcribe PScanResult
+[2022-10-03 15:54:50.244] [FileLogger] [info] Subcribe PScanResult
+[2022-10-03 15:54:50.751] [FileLogger] [info] Subcribe PScanResult
+[2022-10-03 15:54:51.265] [FileLogger] [info] Subcribe PScanResult
+[2022-10-03 15:54:51.776] [FileLogger] [info] Subcribe PScanResult
+[2022-10-03 15:54:52.288] [FileLogger] [info] Subcribe PScanResult
+[2022-10-03 15:54:52.799] [FileLogger] [info] Subcribe PScanResult
+[2022-10-03 15:54:53.311] [FileLogger] [info] Subcribe PScanResult
+[2022-10-03 15:54:53.824] [FileLogger] [info] Subcribe PScanResult
+[2022-10-03 15:54:54.331] [FileLogger] [info] Subcribe PScanResult
+[2022-10-03 15:54:54.842] [FileLogger] [info] Subcribe PScanResult
+[2022-10-03 15:54:55.356] [FileLogger] [info] Subcribe PScanResult
+[2022-10-03 15:54:55.868] [FileLogger] [info] Subcribe PScanResult
+[2022-10-03 15:54:56.379] [FileLogger] [info] Subcribe PScanResult
+[2022-10-03 15:54:56.893] [FileLogger] [info] Subcribe PScanResult
+[2022-10-03 15:54:57.407] [FileLogger] [info] Subcribe PScanResult
+[2022-10-03 15:54:57.919] [FileLogger] [info] Subcribe PScanResult
+[2022-10-03 15:54:58.432] [FileLogger] [info] Subcribe PScanResult
+[2022-10-03 15:54:58.942] [FileLogger] [info] Subcribe PScanResult
+[2022-10-03 15:54:59.454] [FileLogger] [info] Subcribe PScanResult
+[2022-10-03 15:54:59.964] [FileLogger] [info] Subcribe PScanResult
+[2022-10-03 15:55:00.478] [FileLogger] [info] Subcribe PScanResult
+[2022-10-03 15:55:00.988] [FileLogger] [info] Subcribe PScanResult
+[2022-10-03 15:55:01.500] [FileLogger] [info] Subcribe PScanResult
+[2022-10-03 15:55:02.010] [FileLogger] [info] Subcribe PScanResult
+[2022-10-03 15:55:02.527] [FileLogger] [info] Subcribe PScanResult
+[2022-10-03 15:55:03.036] [FileLogger] [info] Subcribe PScanResult
+[2022-10-03 15:55:03.876] [FileLogger] [info] Subcribe PScanResult
+[2022-10-03 15:55:04.054] [FileLogger] [info] Subcribe PScanResult
+[2022-10-03 15:55:04.555] [FileLogger] [info] UnregisterSubscriber 52801
+[2022-10-03 15:55:04.555] [FileLogger] [info] CurrentSubcriberSize 0
+[2022-10-03 15:55:04.557] [FileLogger] [info] --DeInitLib
+[2022-10-03 15:56:01.490] [FileLogger] [info] --InitLib
+[2022-10-03 15:56:01.492] [FileLogger] [info] configuration load successed
+[2022-10-03 15:56:01.530] [FileLogger] [info] RegisterSubscriber 52801
+[2022-10-03 15:56:01.530] [FileLogger] [info] CurrentSubcriberSize 1
+[2022-10-03 15:56:03.657] [FileLogger] [info] UnregisterSubscriber 52801
+[2022-10-03 15:56:03.657] [FileLogger] [info] CurrentSubcriberSize 0
+[2022-10-03 15:56:03.658] [FileLogger] [info] --DeInitLib
+[2022-10-03 15:56:26.699] [FileLogger] [info] --InitLib
+[2022-10-03 15:56:26.699] [FileLogger] [info] configuration load failed
+[2022-10-03 15:57:54.045] [FileLogger] [info] --InitLib
+[2022-10-03 15:57:54.045] [FileLogger] [info] configuration load failed
+[2022-10-03 15:58:40.768] [FileLogger] [info] --InitLib
+[2022-10-03 15:59:17.334] [FileLogger] [info] configuration load failed
+[2022-10-03 16:03:40.670] [FileLogger] [info] --InitLib
+[2022-10-03 16:03:44.481] [FileLogger] [info] configuration load failed
+[2022-10-03 16:04:25.474] [FileLogger] [info] --InitLib
+[2022-10-03 16:04:25.475] [FileLogger] [info] configuration load failed

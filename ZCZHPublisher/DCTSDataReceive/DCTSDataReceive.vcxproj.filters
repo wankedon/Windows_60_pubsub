@@ -1,0 +1,174 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="proto">
+      <UniqueIdentifier>{1b9415d3-f141-401a-badf-e20a0d87bef4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ConfigLoader">
+      <UniqueIdentifier>{c3f4c443-c8f6-4f2b-ab9e-0cf7678025ac}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="DisComm">
+      <UniqueIdentifier>{fceeacaa-c87b-4463-b6a1-183fb0ccd40d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Utility">
+      <UniqueIdentifier>{0c00bb9e-ab1a-4bc2-ada5-a35c3b265607}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="PchHeader">
+      <UniqueIdentifier>{22ca1f2e-e677-4939-87b3-c8c01f05f949}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Start.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="ConfigLoader.cpp">
+      <Filter>ConfigLoader</Filter>
+    </ClCompile>
+    <ClCompile Include="..\DistComm\ActorBase.cpp">
+      <Filter>DisComm</Filter>
+    </ClCompile>
+    <ClCompile Include="..\DistComm\Poll.cpp">
+      <Filter>DisComm</Filter>
+    </ClCompile>
+    <ClCompile Include="..\DistComm\PushPull.cpp">
+      <Filter>DisComm</Filter>
+    </ClCompile>
+    <ClCompile Include="..\DistComm\SubPub.cpp">
+      <Filter>DisComm</Filter>
+    </ClCompile>
+    <ClCompile Include="..\DistComm\Whiteboard.cpp">
+      <Filter>DisComm</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Utility\Logger.cpp">
+      <Filter>Utility</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Utility\pugixml.cpp">
+      <Filter>Utility</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Utility\StringConv.cpp">
+      <Filter>Utility</Filter>
+    </ClCompile>
+    <ClCompile Include="pch.cpp">
+      <Filter>PchHeader</Filter>
+    </ClCompile>
+    <ClCompile Include="..\DistComm\ZsockUtil.cpp">
+      <Filter>DisComm</Filter>
+    </ClCompile>
+    <ClCompile Include="..\DistComm\ZMsgWrap.cpp">
+      <Filter>DisComm</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Utility\Miscellaneous.cpp">
+      <Filter>Utility</Filter>
+    </ClCompile>
+    <ClCompile Include="DataReceiver.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="DataConvert.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="DataTransport.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\DCTSAPI\generated_cpp\dcts.pb.cc">
+      <Filter>proto</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\DCTSAPI\generated_cpp\node\detection.pb.cc">
+      <Filter>proto</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\DCTSAPI\generated_cpp\node\modulation.pb.cc">
+      <Filter>proto</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\DCTSAPI\generated_cpp\node\node.pb.cc">
+      <Filter>proto</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\DCTSAPI\generated_cpp\node\nodeInternal.pb.cc">
+      <Filter>proto</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\DCTSAPI\generated_cpp\node\nodeServer.pb.cc">
+      <Filter>proto</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\DCTSAPI\generated_cpp\node\replay.pb.cc">
+      <Filter>proto</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\DCTSAPI\generated_cpp\node\spectrum.pb.cc">
+      <Filter>proto</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\DCTSAPI\generated_cpp\node\zczh\ZhDirection.pb.cc">
+      <Filter>proto</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\DCTSAPI\generated_cpp\node\zczh\ZhIFAnalysis.pb.cc">
+      <Filter>proto</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\DCTSAPI\generated_cpp\node\zczh\ZhPosition.pb.cc">
+      <Filter>proto</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\DCTSAPI\generated_cpp\node\zczh\ZhPScan.pb.cc">
+      <Filter>proto</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="ConfigLoader.h">
+      <Filter>ConfigLoader</Filter>
+    </ClInclude>
+    <ClInclude Include="..\DistComm\ActorBase.h">
+      <Filter>DisComm</Filter>
+    </ClInclude>
+    <ClInclude Include="..\DistComm\Poll.h">
+      <Filter>DisComm</Filter>
+    </ClInclude>
+    <ClInclude Include="..\DistComm\PushPull.h">
+      <Filter>DisComm</Filter>
+    </ClInclude>
+    <ClInclude Include="..\DistComm\SubPub.h">
+      <Filter>DisComm</Filter>
+    </ClInclude>
+    <ClInclude Include="..\DistComm\Whiteboard.h">
+      <Filter>DisComm</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Utility\Logger.h">
+      <Filter>Utility</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Utility\StringConv.h">
+      <Filter>Utility</Filter>
+    </ClInclude>
+    <ClInclude Include="pch.h">
+      <Filter>PchHeader</Filter>
+    </ClInclude>
+    <ClInclude Include="framework.h">
+      <Filter>PchHeader</Filter>
+    </ClInclude>
+    <ClInclude Include="..\DistComm\ZsockUtil.h">
+      <Filter>DisComm</Filter>
+    </ClInclude>
+    <ClInclude Include="..\DistComm\ZMsgWrap.h">
+      <Filter>DisComm</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Utility\Miscellaneous.h">
+      <Filter>Utility</Filter>
+    </ClInclude>
+    <ClInclude Include="DataReceiver.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="DataConvert.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="DataTransport.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="ComDef.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

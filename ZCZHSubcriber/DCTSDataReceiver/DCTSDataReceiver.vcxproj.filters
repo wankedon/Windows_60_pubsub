@@ -1,0 +1,177 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="DisComm">
+      <UniqueIdentifier>{9f2bc1b8-fe48-4007-b729-fcde000a140d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Utility">
+      <UniqueIdentifier>{65ec0826-f89f-45c8-9e5b-c9f5af66eebe}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="PchHeader">
+      <UniqueIdentifier>{db383a79-e2df-4a1d-926a-d087b46315e3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="proto">
+      <UniqueIdentifier>{fe4a8894-75d0-4e20-8a70-c026c93599b3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Subcriber">
+      <UniqueIdentifier>{4337403e-b884-4341-a68f-8200dbdca70d}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\DistComm\ActorBase.h">
+      <Filter>DisComm</Filter>
+    </ClInclude>
+    <ClInclude Include="..\DistComm\Poll.h">
+      <Filter>DisComm</Filter>
+    </ClInclude>
+    <ClInclude Include="..\DistComm\SubPub.h">
+      <Filter>DisComm</Filter>
+    </ClInclude>
+    <ClInclude Include="..\DistComm\Whiteboard.h">
+      <Filter>DisComm</Filter>
+    </ClInclude>
+    <ClInclude Include="..\DistComm\ZMsgWrap.h">
+      <Filter>DisComm</Filter>
+    </ClInclude>
+    <ClInclude Include="..\DistComm\ZsockUtil.h">
+      <Filter>DisComm</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Utility\Logger.h">
+      <Filter>Utility</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Utility\Miscellaneous.h">
+      <Filter>Utility</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Utility\StringConv.h">
+      <Filter>Utility</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Transport\ConfigLoader.h">
+      <Filter>Subcriber</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Transport\DataConverter.h">
+      <Filter>Subcriber</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Transport\DataSubcriber.h">
+      <Filter>Subcriber</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Transport\SubComDef.h">
+      <Filter>Subcriber</Filter>
+    </ClInclude>
+    <ClInclude Include="pch.h">
+      <Filter>PchHeader</Filter>
+    </ClInclude>
+    <ClInclude Include="framework.h">
+      <Filter>PchHeader</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Transport\SubcriberPool.h">
+      <Filter>Subcriber</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Transport\ZCZHSubcriber.h">
+      <Filter>Subcriber</Filter>
+    </ClInclude>
+    <ClInclude Include="..\DistComm\ProtoSerializer.h">
+      <Filter>DisComm</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="dllmain.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\DistComm\ActorBase.cpp">
+      <Filter>DisComm</Filter>
+    </ClCompile>
+    <ClCompile Include="..\DistComm\Poll.cpp">
+      <Filter>DisComm</Filter>
+    </ClCompile>
+    <ClCompile Include="..\DistComm\SubPub.cpp">
+      <Filter>DisComm</Filter>
+    </ClCompile>
+    <ClCompile Include="..\DistComm\Whiteboard.cpp">
+      <Filter>DisComm</Filter>
+    </ClCompile>
+    <ClCompile Include="..\DistComm\ZMsgWrap.cpp">
+      <Filter>DisComm</Filter>
+    </ClCompile>
+    <ClCompile Include="..\DistComm\ZsockUtil.cpp">
+      <Filter>DisComm</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Utility\Logger.cpp">
+      <Filter>Utility</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Utility\Miscellaneous.cpp">
+      <Filter>Utility</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Utility\pugixml.cpp">
+      <Filter>Utility</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Utility\StringConv.cpp">
+      <Filter>Utility</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Transport\ConfigLoader.cpp">
+      <Filter>Subcriber</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Transport\DataConverter.cpp">
+      <Filter>Subcriber</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Transport\DataSubcriber.cpp">
+      <Filter>Subcriber</Filter>
+    </ClCompile>
+    <ClCompile Include="pch.cpp">
+      <Filter>PchHeader</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Transport\SubcriberPool.cpp">
+      <Filter>Subcriber</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Transport\ZCZHSubcriber.cpp">
+      <Filter>Subcriber</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\DCTSAPI\generated_cpp\dcts.pb.cc">
+      <Filter>proto</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\DCTSAPI\generated_cpp\node\detection.pb.cc">
+      <Filter>proto</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\DCTSAPI\generated_cpp\node\modulation.pb.cc">
+      <Filter>proto</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\DCTSAPI\generated_cpp\node\node.pb.cc">
+      <Filter>proto</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\DCTSAPI\generated_cpp\node\nodeInternal.pb.cc">
+      <Filter>proto</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\DCTSAPI\generated_cpp\node\nodeServer.pb.cc">
+      <Filter>proto</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\DCTSAPI\generated_cpp\node\replay.pb.cc">
+      <Filter>proto</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\DCTSAPI\generated_cpp\node\spectrum.pb.cc">
+      <Filter>proto</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\DCTSAPI\generated_cpp\node\zczh\ZhDirection.pb.cc">
+      <Filter>proto</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\DCTSAPI\generated_cpp\node\zczh\ZhIFAnalysis.pb.cc">
+      <Filter>proto</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\DCTSAPI\generated_cpp\node\zczh\ZhPosition.pb.cc">
+      <Filter>proto</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\DCTSAPI\generated_cpp\node\zczh\ZhPScan.pb.cc">
+      <Filter>proto</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>
